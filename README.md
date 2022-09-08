@@ -23,4 +23,4 @@ largo del periodo.
 
 ## App
 
-[]()
+![](https://github.com/LaurieBetancourt/Loan-calculator/blob/main/img/app.png)
