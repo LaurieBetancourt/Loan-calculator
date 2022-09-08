@@ -1,5 +1,7 @@
 # Loan calculator
 
+![](https://github.com/LaurieBetancourt/Loan-calculator/blob/main/Loan_Calculator/img/portada.png)
+
 Este proyecto consiste en la creación de una calculadora 
 capaz de informarle al usuarioelementos informativos 
 acerca del prestamo que se solicitó. Por ejemplo:
