@@ -26,3 +26,5 @@ largo del periodo.
 ## App
 
 ![](https://github.com/LaurieBetancourt/Loan-calculator/blob/main/img/app.png)
+
+*Proyecto finalizado: Mayo 2022*
